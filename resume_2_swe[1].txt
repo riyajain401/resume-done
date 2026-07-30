@@ -1,0 +1,23 @@
+Arjun Mehta
+Software Engineer | arjun.mehta@email.com
+
+SUMMARY
+Backend-focused software engineer with 4 years building and scaling
+production services.
+
+EXPERIENCE
+Software Engineer II, CloudNova (2022-Present)
+- Designed and shipped microservices in Java and Python
+- Owned CI/CD pipeline (Jenkins -> Docker -> Kubernetes) for 6 services
+- Migrated a legacy monolith to AWS, cutting infra cost by 30%
+- On-call rotation for a system handling 2M requests/day
+
+Software Engineer, StartupCo (2020-2022)
+- Built REST APIs in Django, wrote unit + integration tests
+- Used Git/GitHub for version control in a team of 8 engineers
+
+SKILLS
+Python, Java, AWS, Docker, Kubernetes, REST API, Git, CI/CD, testing
+
+EDUCATION
+B.Tech Computer Science, IIT Roorkee (2020)

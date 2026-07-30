@@ -1,0 +1,11 @@
+Job Title: Cloud Backend Engineer
+
+We need a backend engineer to help scale our platform on Azure.
+
+Requirements:
+- 3+ years professional software engineering experience
+- Strong Python or Java skills
+- Experience with Kubernetes and Docker in production
+- Experience with Azure (AWS/GCP also considered)
+- Solid understanding of CI/CD and automated testing
+- Experience with React is a plus for full-stack contributions

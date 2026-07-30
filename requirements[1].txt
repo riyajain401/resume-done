@@ -1,0 +1,8 @@
+streamlit==1.60.0
+openai==2.47.0
+faiss-cpu==1.14.3
+pypdf==5.9.0
+python-docx==1.2.0
+python-dotenv==1.2.2
+tiktoken==0.13.0
+requests==2.32.3

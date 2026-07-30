@@ -1,0 +1,21 @@
+# Copy this file to .env and fill in your own keys.
+# Never commit your real .env file to GitHub.
+
+# Used for: primary reasoning model + agentic tool-calling.
+# Get a free key at https://console.groq.com/keys
+GROQ_API_KEY=your-groq-key-here
+
+# Optional: used for the secondary cross-check model AND for
+# text-embedding-3-small (which powers real RAG embeddings).
+# If left blank, the app automatically cross-checks using a second,
+# smaller Groq/Llama model instead, and falls back to a deterministic
+# local embedder for RAG (still fully functional, just not OpenAI's).
+OPENAI_API_KEY=
+
+# Optional: enables the "live job market lookup" agent tool.
+# Get a free key at https://serpapi.com or leave blank to disable web lookups.
+SERPAPI_API_KEY=
+
+# App mode: "live" uses real API calls, "mock" uses canned responses
+# so you can demo the app without spending API credits.
+APP_MODE=mock

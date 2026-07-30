@@ -1,0 +1,24 @@
+Priya Sharma
+Data Analyst | priya.sharma@email.com | +91-98765-43210
+
+SUMMARY
+Data analyst with 3 years of experience turning messy datasets into
+decisions. Comfortable across the full pipeline from SQL extraction to
+stakeholder-ready dashboards.
+
+EXPERIENCE
+Data Analyst, RetailMetrics Inc. (2023-Present)
+- Built and maintained 12 Tableau dashboards tracking store-level KPIs
+- Wrote complex SQL queries against a 40M-row Snowflake warehouse
+- Automated a weekly reporting pipeline in Python, saving ~6 hours/week
+- Partnered with product managers to design A/B tests for pricing changes
+
+Junior Analyst, FinTrack (2021-2023)
+- Cleaned and validated transaction data using Excel and Python (pandas)
+- Presented monthly findings to non-technical stakeholders
+
+SKILLS
+SQL, Python, Excel, Tableau, statistics, A/B testing, communication
+
+EDUCATION
+B.Sc. Statistics, Delhi University (2021)
